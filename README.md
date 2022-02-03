@@ -14,7 +14,8 @@
 www.linkedin.com/in/mickhill-qa
 www.github.com/mickhill-qa
 www.bitbucket.org/mickhill-qa
-www.facebook.com/mickhilloficial
+www.facebook.com/mickhillqa
+www.instagram.com/mickhillqa
 
 
 - 🔭 Atualmente estou trabalhando em ...
